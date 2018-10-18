@@ -1,4 +1,3 @@
-# NeuOnline
 
 提交步骤：
 
@@ -7,3 +6,4 @@
 3. pull request
 
 =====================在这里追加内容======================
+https://github.com/faizSteven/RNGNB/pull/2
