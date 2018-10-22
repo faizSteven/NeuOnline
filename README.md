@@ -1,5 +1,7 @@
 # NeuOnline
 
+### Freshman Training Project
+
 提交步骤：
 
 1. Fork本项目
