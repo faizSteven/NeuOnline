@@ -1,0 +1,18 @@
+<style type = "text/css">
+		body{ margin:0; height:100%;font-family: sans-serif; }
+		html{margin:0; height:100%;}
+		#login_frame{
+			display: inline-block;
+		}
+		#container{
+			text-align: center;
+
+			height: 100%;
+		}
+		#backimage{
+			position: fixed;
+			height:100%;
+			width:100%;
+			z-index: -1;
+		}
+	</style>
